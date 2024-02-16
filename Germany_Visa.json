@@ -1,28 +1,8 @@
-{
-  "visas": [
+
     {
       "id": 1,
       "type": "Student Visa",
       "definition": "It is the standard German student visa for international students who are enrolled in a full-time university program.",
-      "requirements": [
-        "1. Visa application documents",
-        "2. Visa application form",
-        "3. National passport",
-        "4. Two photocopies of passport",
-        "5. Birth certificate",
-        "6. Recent Passport size photographs (3)",
-        "7. Proof of financial documents required for German study visa",
-        "8. 11,208 € deposit confirmation in “German Blocked Bank Account”",
-        "9. Evidence of father’s, mother's or your own income (bank statement of last 6 months)",
-        "10. Certificate showing that all your expenses will be covered by the organization (in case of scholarship)",
-        "11. Educational Documents",
-        "12. German university’s acceptance letter",
-        "13. School leaving certificate (if applying for an undergraduate program)",
-        "14. A degree certificate (if applying for a master's/PhD study visa)",
-        "15. Proof of German or English language proficiency (depends on the type of course selected for studies)",
-        "16. Marriage and child certificate (if valid)",
-        "17. Health insurance (public €120/private € 300 )"
-      ],
       "blocked_account": "Yes",
       "fees": "75€",
       "processing_time": "6-12 weeks or may take up to 4 months",
@@ -34,25 +14,6 @@
       "id": 2,
       "type": "Student Applicant Visa",
       "definition": "This visa is issued to those applicants who want to take admission at a German university by visiting the institutes personally. The students have to submit the proof of entitlement to get admission and/or conditional acceptance at a university in Germany.",
-      "requirements": [
-        "1. Visa application documents",
-        "2. Visa application form",
-        "3. National passport",
-        "4. Two photocopies of passport",
-        "5. Birth certificate",
-        "6. Recent Passport size photographs (3)",
-        "7. Proof of financial documents required for German study visa",
-        "8. 11,208 € deposit confirmation in “German Blocked Bank Account”",
-        "9. Evidence of father’s, mother's or your own income (bank statement of last 6 months)",
-        "10. Certificate showing that all your expenses will be covered by the organization (in case of scholarship)",
-        "11. Educational Documents",
-        "12. German university’s acceptance letter",
-        "13. School leaving certificate (if applying for an undergraduate program)",
-        "14. A degree certificate (if applying for a master's/PhD study visa)",
-        "15. Proof of German or English language proficiency (depends on the type of course selected for studies)",
-        "16. Marriage and child certificate (if valid)",
-        "17. Health insurance (private health insurance)"
-      ],
       "blocked_account": "Yes",
       "fees": "80€",
       "processing_time": "15-30 days",
@@ -64,30 +25,13 @@
       "id": 3,
       "type": "German Language Course Visa",
       "definition": "This visa is specific to German language courses.",
-      "requirements": [
-        "1. Visa application documents",
-        "2. Visa application form",
-        "3. National passport",
-        "4. Two photocopies of passport",
-        "5. Birth certificate",
-        "6. Recent Passport size photographs (3)",
-        "7. Proof of financial documents required for German study visa",
-        "8. 11,208 € deposit confirmation in “German Blocked Bank Account”",
-        "9. Evidence of father’s, mother's or your own income (bank statement of last 6 months)",
-        "10. Certificate showing that all your expenses will be covered by the organization (in case of scholarship)",
-        "11. Educational Documents",
-        "12. German university’s acceptance letter (if applicable)",
-        "13. Proof of registration onto a course of at least 18 hours per week",
-        "14. Health insurance (private health insurance)"
-      ],
       "blocked_account": "Yes",
       "fees": "60€",
       "processing_time": "2-3 months",
       "valid_for": "3 months to One year, Cannot be converted into a student visa. Students have to leave the country on completion of the course program.",
       "right_to_work": "Not allowed",
       "language_proficiency_requirement": "N/A"
-    }
-  ],
+    },
   "application_process": [
     "1. Open a blocked account",
     "2. Buy insurance policy",
@@ -114,4 +58,3 @@
       "postal_address": "92-A/7, Block 5, Clifton, Karachi, Pakistan."
     }
   }
-}
