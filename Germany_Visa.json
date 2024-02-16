@@ -32,30 +32,4 @@
       "right_to_work": "Not allowed",
       "language_proficiency_requirement": "N/A"
     },
-  "application_process": [
-    "1. Open a blocked account",
-    "2. Buy insurance policy",
-    "3. Arrange all above mentioned required documents",
-    "4. Make an online appointment by clicking on a new appointment (you will get a date and time for documents submission to the embassy)",
-    "5. Submit the documents at the embassy along with 500/- fees (embassy requires this to send your passport back to you)",
-    "6. Get the payment request from the embassy and submit the visa fee to HBL",
-    "7. You may receive a call for an interview from the embassy (attend the interview session)",
-    "8. Wait for the visa process and (it could be 6 months to years depending on the type of application)",
-    "9. After processing of the visa application, get the visa and travel to Germany"
-  ],
-  "embassy_info": {
-    "german_embassy_islamabad": {
-      "address": "Embassy of the Federal Republic of Germany",
-      "street": "Ramna 5, Diplomatic Enclave, Islamabad",
-      "postal_address": "Embassy of the Federal Republic of Germany, P.O. Box 1027, Islamabad, Pakistan.",
-      "tel": "(0092-51) 2007 – 200 (24 hours; except visa enquiries)",
-      "fax": "+92 51 227 94 36"
-    },
-    "german_consulate_karachi": {
-      "address": "Consulate General of the Federal Republic of Germany in Karachi",
-      "tel": "+92 21 35 87 37 82, +92 21 35 87 37 83, +92 21 35 87 02 34",
-      "fax": "+92 21 35 87 40 09",
-      "postal_address": "92-A/7, Block 5, Clifton, Karachi, Pakistan."
-    }
-  }
     ]
