@@ -1,5 +1,5 @@
 
-    {
+    [{
       "id": 1,
       "type": "Student Visa",
       "definition": "It is the standard German student visa for international students who are enrolled in a full-time university program.",
@@ -58,3 +58,4 @@
       "postal_address": "92-A/7, Block 5, Clifton, Karachi, Pakistan."
     }
   }
+    ]
