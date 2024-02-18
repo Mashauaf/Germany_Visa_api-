@@ -1,4 +1,4 @@
-[
+
   {
     "id": 1,
     "type": "Student Visa",
@@ -19,6 +19,5 @@
     "processing_time": "15-30 days",
     "valid_for": "Max. 9 months, can be changed into a student visa after getting acceptance letter from the university",
     "right_to_work": "Not allowed",
-    "language_proficiency_requirement": "German language"
+    "language_proficiency_requirement": "German language",
   }
-]
